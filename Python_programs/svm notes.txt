@@ -1,0 +1,53 @@
+SVM- Support Vector machine
+It helps to find optimal hyperplane that separates the daatpoints of different class
+in high dimensional space
+Classification- Support vector Classifier
+Regression- Support Vecrtor Regressor
+
+Two Types:
+Linear SVM- Can Classify dataset into two classes using single straight line
+
+Non -Linear SVM- used for Non Linear Separable data, Dataset cannot be classified or separated 
+using single straight line.
+
+Hyperplane
+Decision Boundary to segregate dataset in classes in n-dimensional Space
+
+Support Vector
+Datapoints which are closest to the decision boundary
+
+Non Linear SVM-
+
+Kernel:
+Used to solve non linear problem
+1. Linear Kernel
+f(x1,x2)=x1.x2
+
+2.Polynomial Kernel
+k(x1x2)=(x1.x2+1)^d
+
+3.Gaussian Radial Basis Function
+f(xi,xj)=exp(-gamma|xi-Xj|^2)
+
+4.Sigmoid Kernel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
